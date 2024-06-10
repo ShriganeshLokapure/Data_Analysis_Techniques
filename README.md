@@ -1,4 +1,4 @@
-# Deep-Learning-Data-Models
+# Data_Analysis_Techniques
 
 ## Overview
 This repository is dedicated to the exploration and application of machine learning and neural network models using PyTorch. It includes comprehensive projects that involve data analysis, preprocessing, machine learning modeling, and deep learning solutions to address real-world challenges.
